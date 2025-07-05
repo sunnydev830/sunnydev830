@@ -33,7 +33,7 @@ I’m a passionate **Senior Full-Stack AI Developer** who bridges the gap betwee
 
 ### 🧠 AI / ML  
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,jupyter,openai" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 <br>
 <img src="https://skillicons.dev/icons?i=fastapi,flask" />
 </div>
@@ -42,7 +42,7 @@ I’m a passionate **Senior Full-Stack AI Developer** who bridges the gap betwee
 
 ### 🛠️ Backend & APIs  
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastify,php,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,php,dotnet" />
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </div>
