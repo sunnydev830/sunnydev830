@@ -1,27 +1,122 @@
+# <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100">
 <h3 align="center">
-   👋 Hi!
+  👋 Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
+
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hi,+I'm+a+Full-Stack+AI+Developer!;Crafting+Smart+Systems+%F0%9F%96%A5%EF%B8%8F;Scaling+Intelligence+to+Production+%F0%9F%9B%A0%EF%B8%8F;Welcome+to+my+code+lab+%F0%9F%8C%9F"></a>
 </p>
-## 🏆 Achievements
 
-### 🐎 Quickdraw
-> Closed a PR in under 5 minutes  
-> [#7 · sample-auto-merge-repo](https://github.com/skoshy/sample-auto-merge-repo/pull/7)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Engineer;Back-end+Architect;Full-Stack+Problem+Solver" />
+</div>
 
----
-
-### 🤝 Pair Extraordinaire
-> Co-authored a PR with a teammate  
-> [#12 · my-awesome-repo](https://github.com/yourusername/my-awesome-repo/pull/12)
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVmN2U1ZDY3YjhhYWI0ZTU4YzRmMjYzM2EzNzA3NzljMmE2ZDc4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
-### 🚀 Pull Shark
-> Merged 30+ pull requests across multiple repos
+### 🚀 About Me
+
+I’m a passionate **Senior Full-Stack AI Developer** who bridges the gap between deep learning models and scalable production systems.
+
+- 🧠 I build end-to-end AI pipelines: from model training to inference API
+- 🧪 Research + 🚀 Engineering = My daily workflow
+- ⚙️ Skilled at system architecture, API dev, distributed queues, and cloud deployments
+- 🗂️ Building fast, fault-tolerant systems that serve real users at scale
 
 ---
 
-### 🧠 Galaxy Brain
+## 🧰 Tech Toolbox
+
+<table><tr><td valign="top" width="33%">
+
+### 🧠 AI / ML  
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,jupyter,openai" />
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</div>
+
+</td><td valign="top" width="33%">
+
+### 🛠️ Backend & APIs  
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastify,php,dotnet" />
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</div>
+
+</td><td valign="top" width="33%">
+
+### ☁️ DevOps & Infra  
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,git,githubactions" />
+</div>
+
+</td></tr></table>
+
+---
+
+### 💬 Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+- 🤖 **LangChain + VectorDB AI Assistant**  
+  > Full-stack PDF Q&A chatbot using LangChain + FastAPI + ChromaDB + OpenAI
+
+- 📊 **Real-Time Analytics Worker Queue**  
+  > Redis queue system using Fastify + PostgreSQL for ingesting 100k+/min tracking events
+
+- 💬 **Instagram + ManyChat AI Bot**  
+  > Smart auto-responder for client appointment booking and FAQs (NLP + CRM)
+
+- 🧠 **AI SaaS Platform Backend**  
+  > Multi-tenant microservice backend with OAuth, Webhooks, and Stripe integration
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer" width="100%"/>
+  <p><em>“AI isn't just about machines. It's about enabling humans to think beyond.”</em></p>
+</div>
