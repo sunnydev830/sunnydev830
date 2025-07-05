@@ -87,15 +87,6 @@ I’m a passionate **Senior Full-Stack AI Developer** who bridges the gap betwee
 ---
 
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer" width="100%"/>
   <p><em>“AI isn't just about machines. It's about enabling humans to think beyond.”</em></p>
