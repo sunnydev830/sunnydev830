@@ -18,5 +18,5 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 
-![Quickdraw](https://img.shields.io/badge/Quickdraw-Fast%20PRs-blue)
-![Open%20Source-Contributor-green](https://img.shields.io/badge/Open%20Source-Contributor-green)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-Fast%20PRs-blue?style=flat-square&logo=github)
+![Pull%20Shark](https://img.shields.io/badge/Pull%20Shark-Merged%2030%2B%20PRs-green?style=flat-square&logo=git)
