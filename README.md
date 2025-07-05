@@ -14,10 +14,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Engineer;Back-end+Architect;Full-Stack+Problem+Solver" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVmN2U1ZDY3YjhhYWI0ZTU4YzRmMjYzM2EzNzA3NzljMmE2ZDc4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### 🚀 About Me
