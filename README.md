@@ -17,3 +17,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+
+![Quickdraw](https://img.shields.io/badge/Quickdraw-Fast%20PRs-blue)
+![Open%20Source-Contributor-green](https://img.shields.io/badge/Open%20Source-Contributor-green)
