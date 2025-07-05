@@ -73,7 +73,7 @@ I’m a passionate **Senior Full-Stack AI Developer** who bridges the gap betwee
 ### 🧩 Featured Projects
 
 - 🤖 **LangChain + VectorDB AI Assistant**  
-  > Full-stack PDF Q&A chatbot using LangChain + FastAPI + ChromaDB + OpenAI
+  > Full-stack Q&A chatbot using LangChain + FastAPI + ChromaDB + OpenAI
 
 - 📊 **Real-Time Analytics Worker Queue**  
   > Redis queue system using Fastify + PostgreSQL for ingesting 100k+/min tracking events
