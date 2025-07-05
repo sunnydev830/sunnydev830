@@ -6,14 +6,6 @@
   </p>
 </h3> 
 
-<p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hi,+I'm+a+Full-Stack+AI+Developer!;Crafting+Smart+Systems+%F0%9F%96%A5%EF%B8%8F;Scaling+Intelligence+to+Production+%F0%9F%9B%A0%EF%B8%8F;Welcome+to+my+code+lab+%F0%9F%8C%9F"></a>
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Engineer;Back-end+Architect;Full-Stack+Problem+Solver" />
-</div>
-
 ---
 
 ### 🚀 About Me
@@ -56,16 +48,6 @@ I specialize in building high-performance systems that are secure, efficient, an
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 💬 Programming Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white" />
-</p>
 
 ---
 
